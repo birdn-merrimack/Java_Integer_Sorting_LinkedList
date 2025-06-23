@@ -32,7 +32,7 @@
 
 # Contents - Full
 
-birdn-IntegerStackSorting
+birdn-IntegerLinkedListSorting
 <br />│   allclasses-index.html
 <br />│   allpackages-index.html
 <br />│   birdn-project-4-Diagram.pdf
