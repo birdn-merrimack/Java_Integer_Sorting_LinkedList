@@ -4,10 +4,10 @@
 # Purpose and Overview
 - The purpose of **IntegerLinkedListSorting.java** is to allow the user to enter a comma-delimited list of Integer values and to receive a display of these values sorted from least to greatest.
 - **IntegerLinkedListSorting.java** contains the public class **IntegerLinkedListSorting** which has three private methods:
-<br />        -  getList(): uses a Scanner object to prompt and accept user input, collected as a comma-delimited list of integer values, then returns a LinkedList object containing these values
-<br />        -  sortList(): accepts a LinkedList object, runs .sort() on the object, returns LinkedList object
-<br />        -  printList(): accepts a LinkedList object, outputs a formatted display of the LinkedList contents using ListIterator
-<br /> - -  For more information, please reference the README.txt file contained in **birdn-IntegerLinkedListSorting.zip**
+<br /> -  **getList()**: uses a Scanner object to prompt and accept user input, collected as a comma-delimited list of integer values, then returns a LinkedList object containing these values
+<br /> -  **sortList()**: accepts a LinkedList object, runs .sort() on the object, returns LinkedList object
+<br /> -  **printList()**: accepts a LinkedList object, outputs a formatted display of the LinkedList contents using ListIterator
+<br /> -  For more information, please reference the README.txt file contained in **birdn-IntegerLinkedListSorting.zip**
 
 # General Information
 - Author: Natalie Bird
