@@ -33,72 +33,72 @@ This repository contains Java code for sorting a user-inputted list of integer v
 # Contents - Full
 
 birdn-IntegerStackSorting
-│   allclasses-index.html
-│   allpackages-index.html
-│   birdn-project-4-Diagram.pdf
-│   element-list
-│   help-doc.html
-│   index-all.html
-│   index.html
-│   IntegerLinkedListSorting.class
-│   IntegerLinkedListSorting.html
-│   IntegerLinkedListSorting.java
-│   member-search-index.js
-│   module-search-index.js
-│   overview-tree.html
-│   package-search-index.js
-│   package-summary.html
-│   package-tree.html
-│   README.txt
-│   search.html
-│   tag-search-index.js
-│   type-search-index.js
-│
-├───legal
-│       COPYRIGHT
-│       dejavufonts.md
-│       jquery.md
-│       jqueryUI.md
-│       LICENSE
-│
-├───resource-files
-│   │   copy.svg
-│   │   glass.png
-│   │   jquery-ui.min.css
-│   │   link.svg
-│   │   stylesheet.css
-│   │   x.png
-│   │
-│   └───fonts
-│           dejavu.css
-│           DejaVuLGCSans-Bold.woff
-│           DejaVuLGCSans-Bold.woff2
-│           DejaVuLGCSans-BoldOblique.woff
-│           DejaVuLGCSans-BoldOblique.woff2
-│           DejaVuLGCSans-Oblique.woff
-│           DejaVuLGCSans-Oblique.woff2
-│           DejaVuLGCSans.woff
-│           DejaVuLGCSans.woff2
-│           DejaVuLGCSansMono-Bold.woff
-│           DejaVuLGCSansMono-Bold.woff2
-│           DejaVuLGCSansMono-BoldOblique.woff
-│           DejaVuLGCSansMono-BoldOblique.woff2
-│           DejaVuLGCSansMono-Oblique.woff
-│           DejaVuLGCSansMono-Oblique.woff2
-│           DejaVuLGCSansMono.woff
-│           DejaVuLGCSansMono.woff2
-│           DejaVuLGCSerif-Bold.woff
-│           DejaVuLGCSerif-Bold.woff2
-│           DejaVuLGCSerif-BoldItalic.woff
-│           DejaVuLGCSerif-BoldItalic.woff2
-│           DejaVuLGCSerif-Italic.woff
-│           DejaVuLGCSerif-Italic.woff2
-│           DejaVuLGCSerif.woff
-│           DejaVuLGCSerif.woff2
-│
-└───script-files
-        jquery-3.7.1.min.js
-        jquery-ui.min.js
-        script.js
-        search-page.js
-        search.js
+<br />│   allclasses-index.html
+<br />│   allpackages-index.html
+<br />│   birdn-project-4-Diagram.pdf
+<br />│   element-list
+<br />│   help-doc.html
+<br />│   index-all.html
+<br />│   index.html
+<br />│   IntegerLinkedListSorting.class
+<br />│   IntegerLinkedListSorting.html
+<br />│   IntegerLinkedListSorting.java
+<br />│   member-search-index.js
+<br />│   module-search-index.js
+<br />│   overview-tree.html
+<br />│   package-search-index.js
+<br />│   package-summary.html
+<br />│   package-tree.html
+<br />│   README.txt
+<br />│   search.html
+<br />│   tag-search-index.js
+<br />│   type-search-index.js
+<br />│
+<br />├───legal
+<br />│       COPYRIGHT
+<br />│       dejavufonts.md
+<br />│       jquery.md
+<br />│       jqueryUI.md
+<br />│       LICENSE
+<br />│
+<br />├───resource-files
+<br />│   │   copy.svg
+<br />│   │   glass.png
+<br />│   │   jquery-ui.min.css
+<br />│   │   link.svg
+<br />│   │   stylesheet.css
+<br />│   │   x.png
+<br />│   │
+<br />│   └───fonts
+<br />│           dejavu.css
+<br />│           DejaVuLGCSans-Bold.woff
+<br />│           DejaVuLGCSans-Bold.woff2
+<br />│           DejaVuLGCSans-BoldOblique.woff
+<br />│           DejaVuLGCSans-BoldOblique.woff2
+<br />│           DejaVuLGCSans-Oblique.woff
+<br />│           DejaVuLGCSans-Oblique.woff2
+<br />│           DejaVuLGCSans.woff
+<br />│           DejaVuLGCSans.woff2
+<br />│           DejaVuLGCSansMono-Bold.woff
+<br />│           DejaVuLGCSansMono-Bold.woff2
+<br />│           DejaVuLGCSansMono-BoldOblique.woff
+<br />│           DejaVuLGCSansMono-BoldOblique.woff2
+<br />│           DejaVuLGCSansMono-Oblique.woff
+<br />│           DejaVuLGCSansMono-Oblique.woff2
+<br />│           DejaVuLGCSansMono.woff
+<br />│           DejaVuLGCSansMono.woff2
+<br />│           DejaVuLGCSerif-Bold.woff
+<br />│           DejaVuLGCSerif-Bold.woff2
+<br />│           DejaVuLGCSerif-BoldItalic.woff
+<br />│           DejaVuLGCSerif-BoldItalic.woff2
+<br />│           DejaVuLGCSerif-Italic.woff
+<br />│           DejaVuLGCSerif-Italic.woff2
+<br />│           DejaVuLGCSerif.woff
+<br />│           DejaVuLGCSerif.woff2
+<br />│
+<br />└───script-files
+        <br />jquery-3.7.1.min.js
+        <br />jquery-ui.min.js
+        <br />script.js
+        <br />search-page.js
+        <br />search.js
