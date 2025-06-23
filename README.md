@@ -1,8 +1,13 @@
 # Java_Integer_Sorting_LinkedList
 - This repository contains Java code for sorting a user-inputted list of integer values from least to greatest, using a LinkedList framework.
 
-# Purpose
+# Purpose and Overview
 - The purpose of **IntegerLinkedListSorting.java** is to allow the user to enter a comma-delimited list of Integer values and to receive a display of these values sorted from least to greatest.
+- **IntegerLinkedListSorting.java** contains the public class **IntegerLinkedListSorting** which has three private methods:
+        -  getList(): uses a Scanner object to prompt and accept user input, collected as a comma-delimited list of integer values, then returns a LinkedList object containing these values
+        -  sortList(): accepts a LinkedList object, runs .sort() on the object, returns LinkedList object
+        -  printList(): accepts a LinkedList object, outputs a formatted display of the LinkedList contents using ListIterator
+        -  For more information, please reference the README.txt file contained in **birdn-IntegerLinkedListSorting.zip**
 
 # General Information
 - Author: Natalie Bird
